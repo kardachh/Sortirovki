@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Сортировки\gnome\bin\Debug\gnome.exe.config
+C:\Users\user\source\repos\Сортировки\gnome\bin\Debug\gnome.exe
+C:\Users\user\source\repos\Сортировки\gnome\bin\Debug\gnome.pdb
+C:\Users\user\source\repos\Сортировки\gnome\obj\Debug\gnome.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Сортировки\gnome\obj\Debug\gnome.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Сортировки\gnome\obj\Debug\gnome.exe
+C:\Users\user\source\repos\Сортировки\gnome\obj\Debug\gnome.pdb

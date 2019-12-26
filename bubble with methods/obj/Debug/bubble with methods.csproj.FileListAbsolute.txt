@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Сортировки\bubble with methods\bin\Debug\bubble with methods.exe.config
+C:\Users\user\source\repos\Сортировки\bubble with methods\bin\Debug\bubble with methods.exe
+C:\Users\user\source\repos\Сортировки\bubble with methods\bin\Debug\bubble with methods.pdb
+C:\Users\user\source\repos\Сортировки\bubble with methods\obj\Debug\bubble with methods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Сортировки\bubble with methods\obj\Debug\bubble with methods.exe
+C:\Users\user\source\repos\Сортировки\bubble with methods\obj\Debug\bubble with methods.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Сортировки\quick\obj\Debug\quick.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Сортировки\quick\bin\Debug\quick.exe.config
+C:\Users\user\source\repos\Сортировки\quick\bin\Debug\quick.exe
+C:\Users\user\source\repos\Сортировки\quick\bin\Debug\quick.pdb
+C:\Users\user\source\repos\Сортировки\quick\obj\Debug\quick.exe
+C:\Users\user\source\repos\Сортировки\quick\obj\Debug\quick.pdb
+C:\Users\user\source\repos\Сортировки\quick\obj\Debug\quick.csprojAssemblyReference.cache

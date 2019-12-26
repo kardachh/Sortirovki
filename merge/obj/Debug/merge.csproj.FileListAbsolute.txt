@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Сортировки\merge\bin\Debug\merge.exe.config
+C:\Users\user\source\repos\Сортировки\merge\bin\Debug\merge.exe
+C:\Users\user\source\repos\Сортировки\merge\bin\Debug\merge.pdb
+C:\Users\user\source\repos\Сортировки\merge\obj\Debug\merge.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Сортировки\merge\obj\Debug\merge.exe
+C:\Users\user\source\repos\Сортировки\merge\obj\Debug\merge.pdb
