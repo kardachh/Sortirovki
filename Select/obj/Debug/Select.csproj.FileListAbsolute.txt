@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Сортировки\Select\obj\Debug\Select.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Сортировки\Select\obj\Debug\Select.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Сортировки\Select\bin\Debug\Select.exe.config
+C:\Users\user\source\repos\Сортировки\Select\bin\Debug\Select.exe
+C:\Users\user\source\repos\Сортировки\Select\bin\Debug\Select.pdb
+C:\Users\user\source\repos\Сортировки\Select\obj\Debug\Select.exe
+C:\Users\user\source\repos\Сортировки\Select\obj\Debug\Select.pdb

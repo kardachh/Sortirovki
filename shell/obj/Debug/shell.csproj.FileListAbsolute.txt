@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Сортировки\shell\bin\Debug\shell.exe.config
+C:\Users\user\source\repos\Сортировки\shell\bin\Debug\shell.exe
+C:\Users\user\source\repos\Сортировки\shell\bin\Debug\shell.pdb
+C:\Users\user\source\repos\Сортировки\shell\obj\Debug\shell.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Сортировки\shell\obj\Debug\shell.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Сортировки\shell\obj\Debug\shell.exe
+C:\Users\user\source\repos\Сортировки\shell\obj\Debug\shell.pdb

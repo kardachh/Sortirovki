@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Сортировки\shaker\bin\Debug\shaker.exe.config
+C:\Users\user\source\repos\Сортировки\shaker\bin\Debug\shaker.exe
+C:\Users\user\source\repos\Сортировки\shaker\bin\Debug\shaker.pdb
+C:\Users\user\source\repos\Сортировки\shaker\obj\Debug\shaker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Сортировки\shaker\obj\Debug\shaker.exe
+C:\Users\user\source\repos\Сортировки\shaker\obj\Debug\shaker.pdb
